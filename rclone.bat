@@ -1,5 +1,5 @@
 @echo
-echo LOG START [RCLONE] %DATE:~5,2%월 %DATE:~-2%일 %TIME:~0,2%시 %TIME:~3,2%분 %TIME:~6,2%초
+echo LOG START [RCLONE] %DATE:~5,2% M %DATE:~-2% D %TIME:~0,2% HH %TIME:~3,2% m %TIME:~6,2% s
 
 set SOURCE=D:\Source
 set LOG=D:\Log

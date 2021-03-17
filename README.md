@@ -15,3 +15,4 @@ this script content example of modification files in the last week.
 
     [root@localhost ~]# crontab -l
     30 9 * * * bash /home/paran/sendmail.sh paranlee@paran.lee
+    0 9 * * * bash /home/paran/overmail.sh paranlee@paran.lee
