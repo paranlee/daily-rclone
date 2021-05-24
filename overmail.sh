@@ -10,7 +10,7 @@ LOG_FILE_PATH=/home/paran
 LOG_FILE_NAME=$LOG_FILE_PATH/over-$YYYYMMDD.log
 
 TO="To: $1"
-FROM="From: inno@innowireless.com"
+FROM="From: backup@my.admin"
 SUBJECT="Subject : Backup server Storage LIMIT $2% !"
 SECTION1="<modification files in the last week>"
 SECTION2="<storage usage>"
