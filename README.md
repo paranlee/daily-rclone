@@ -4,7 +4,11 @@ This script running on crontab of storage server(SAN storage) on promise environ
 
 repo contains daily sendmail script and rclone batch script. (includes linux, windows)
 
-this script content example of modification files in the last week.
+this script content 2 examples.
+
+(1) modification files in the last week. 
+
+(2) check the storage size.
 
 #### setup rclone client
 
